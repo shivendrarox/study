@@ -208,3 +208,62 @@ My goal is to see how many points I can rack up by December 31, 2018.
 *   Clone your favorite browser extension, or create one you wish existed.
 *   Clone your favorite mobile app, or create one you wish existed.
 *   Any project you want to build - the a
+## FAQ for this guide
+
+### Why is it so much longer than the original Job Ready Guide?
+What I've observed over the past 9 months is two phenomena, the first being that many "self-supplemented" with additional beginner projects and resources while working through YDKJS, so I expanded on the beginner section to alleviate the "but what else should I be doing" question. The second is that the most successful learners also supplemented with more involved projects towards the end of the guide, so I added more intricate/advanced projects to meet that need.
+
+### Why so much Math and Algorithms?
+It's not THAT much math, just through Precalculus so you won't feel so behind the curve when you want to push beyond just "Job Ready" and tackle more involved programming projects. The algorithms -- I've added them to ensure you're prepared and confident you can handle anything you might encounter in an interview.
+
+### Where should I deploy my code?
+For all projects - store your code on GitHub, GitLab or BitBucket (GitHub preferred if you want it to later be seen by potential employers) and for web projects deploy the code on the web using the service of your choice ([GitHub](https://pages.github.com/) or [GitLab](https://about.gitlab.com/features/pages/) projects or [Surge.sh](http://surge.sh/) are ideal for frontend only projects, while Heroku is a free alternative for backend/fullstack).
+
+### Why the change in Project selections?
+To provide a bit more guidance in selecting a variety of projects that will involve a variety of front end development work (animations, media, etc).
+
+### Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?
+Yes, yes I do:
+  - For when you need a quick/fun productive break that teaches you how to use CSS to layout a site (revisit this section in Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
+    - [CSS Diner](https://flukeout.github.io/)
+    - [FlexBox Defense](http://www.flexboxdefense.com/)
+    - [FlexBox Froggy](http://flexboxfroggy.com/)
+    - [Grid Garden](http://cssgridgarden.com/)
+    - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
+  - For when you need a quick/fun productive break in which you also practice JavaScript
+    - [Untrusted](https://alexnisnevich.github.io/untrusted/)
+    - [Elevator Saga](http://play.elevatorsaga.com/)
+    - [Screeps](https://screeps.com)
+  - For when you need assets/ideas
+    - [pixabay](https://pixabay.com/)
+    - [Unsplash](https://unsplash.com/)
+    - [Pexels](https://www.pexels.com/)
+    - [LibreStock](http://librestock.com/)
+    - [Google Fonts](https://fonts.google.com/)
+    - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
+  - Official Docs
+    - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
+    - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
+    - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
+    - [Sass](http://sass-lang.com/guide) - supercharged CSS
+    - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
+    - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
+    - [MongoDB](https://docs.mongodb.com/) - for storing data
+    - [Mongoose](http://mongoosejs.com/) - access to MongoDB from Node.js made easy(er)
+    - [Passport.js](http://passportjs.org/) - remember this link when you have to setup a login system
+    - [D3](https://d3js.org/) - for creating awesome graphs and charts
+    - [Angular](https://angular.io/) - option for creating single page apps on the frontend
+    - [React](https://reactjs.org/) - option for creating single page apps on the frontend
+    - [Vue](https://vuejs.org/) - option for creating single page apps on the frontend
+    - [Redux](http://redux.js.org/) - for managing state in a single page app
+    - [ngrx](http://ngrx.github.io/) - reactive programming in Angular applications
+    - [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview) - reactive JavaScript
+    - [Mocha](https://mochajs.org/) - venture into testing
+    - [Karma](https://karma-runner.github.io/1.0/index.html) - venture into testing
+    - [Jest](https://facebook.github.io/jest/) - venture into testing
+    - [Webpack](https://webpack.github.io/) - module bundler for use in your build process (so you can minify your HTML/CSS/JavaScript among other things and deliver an optimized build to production)
+    - [Babel](http://babeljs.io/) - makes the new JavaScript work on old browsers (or node versions for that matter)
+    - [Gulp](https://gulpjs.com/) - for automating your workflow
+    - [ESLint](https://eslint.org/) - for helping to keep your code clean
+    - [Prettier](https://prettier.io/) - more help keeping your code clean
+    - [Travis](https://travis-ci.org/) - continuous deployment (how to trigger a build/deploy whenever you commit your changes via git)
