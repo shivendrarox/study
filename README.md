@@ -151,10 +151,13 @@ I'm tackling my 2018 learning goals in true "Speedrun" style. My list contains f
 
 Additionally, I'm including a variety of "bonus point" opportunities for reading books, completing projects, and completing algorithmic challenges.
 
-My goal is to see how many points I can rack up by December 31, 2018.
+**My goal is to :** 
+1. see how many points I can rack up by December 31, 2019.
+2. Complete atleast 2 Tiers(Min 1 Tier per semester) of the guide until up by December 2019.
+3. [Meet atleast one of these](###Meet-atleast-one-of-these).
+4. Use those extra resources lying around for years and gain some points from them.
+5. Give your best and exceed the above if possible.
 
-
-**Note:** There are 5 different course lists available in the [course-paths](course-paths) subdirectory if you'd like to clone this for your own use and swap out a different path for those I've chosen. The MITOCW paths will likely require book purchase (or borrow), the non-MITOCW paths are completely free, no book purchase necessary to take the course. There are book lists for if you're looking for "bonus books" to read in [book-lists](book-lists.md) some are freely available online (and I've included links to where to find them) others (towards the bottom of the list) are not free, you'll have to hit google or amazon yourself to find them.
 
 ## Rules
 
@@ -164,8 +167,14 @@ My goal is to see how many points I can rack up by December 31, 2018.
 1. Save all your code to GitHub
 1. Publish all your projects to the web - using surge.sh, github pages, heroku etc
 1. Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
-**Don't Quit.**
-**Don't Panic!**
+1. **Don't Quit.**
+1. **Don't Panic!**
+
+### Meet atleast one of these
+* have git commits every week, most of the days of the week
+* try to get in one of [@tropicalchancer's cohorts](https://chingu-cohorts.github.io/chingu-directory/) - be active once you're in
+* try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
+* spend 30 minutes a day studying math on Khan Academy
 ### For each item you should:
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
 * build something - even if it's just a 20 line function that computes something you find interesting
@@ -197,7 +206,9 @@ My goal is to see how many points I can rack up by December 31, 2018.
 * Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 * Project: Do one of the FCC projects not listed in this guide.
 * Goal: Contribute one pull request per month to an open source project of your choosing.
+
 **Some advanced stuff**
+
 * pick a pet web development project you can code in a week and complete it
 * code an android application
 * learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
