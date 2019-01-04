@@ -142,17 +142,16 @@ Precalculus
 
 
 ## Progress
-If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
-
 
 ## Abstract
 
-I'm tackling my 2018 learning goals in true "Speedrun" style. My list contains far more courses than I expect I'll be able to complete in 2018, so it's sufficient that I can speedrun the year without running out of items from the list to learn.
+I'm tackling my 2019 learning goals in true "Speedrun" style. My list contains far more courses than I expect I'll be able to complete in 2019, so it's sufficient that I can speedrun the year without running out of items from the list to learn.
 
 Additionally, I'm including a variety of "bonus point" opportunities for reading books, completing projects, and completing algorithmic challenges.
 
 **My goal is to :** 
 1. see how many points I can rack up by December 31, 2019.
+2. Follow the rules.
 2. Complete atleast 2 Tiers(Min 1 Tier per semester) of the guide until up by December 2019.
 3. Do atleast 2 Game dev speed-runs.
 3. [Meet atleast one of these](###Meet-atleast-one-of-these).
@@ -162,9 +161,11 @@ Additionally, I'm including a variety of "bonus point" opportunities for reading
 
 ## Rules
 
-1. Always be working on one course.
+1. Always be working on one course or book.
 1. Add bonus objectives from bonus list as often as desired.
-1. All Assignments must be complete for course to be considered complete.
+1. Accomplish the goals
+1. Work through the guide in order, skip nothing.
+1. You can do a max of 2 items simultaneously from the guide.
 1. **Don't Quit.**
 1. **Don't Panic!**
 
