@@ -161,6 +161,50 @@ My goal is to see how many points I can rack up by December 31, 2018.
 1. Always be working on one course.
 1. Add bonus objectives from bonus list as often as desired.
 1. All Assignments must be complete for course to be considered complete.
+1. Save all your code to GitHub
+1. Publish all your projects to the web - using surge.sh, github pages, heroku etc
+1. Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
+**Don't Quit.**
+**Don't Panic!**
+### For each item you should:
+* take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
+* build something - even if it's just a 20 line function that computes something you find interesting
+* if you build something, document it and test it as appropriate
+* do the exercises, build the projects - fully, not some scaled down halfassery
+
+### For four projects of your choosing
+* Seek 1-3 other developers to collaborate on the project
+* Coordinate with the team to complete the project
+* Build the project out to a full production quality application
+* Invite others who are not associated with the team to rigorously test the final product.
+* Resolve any legitimate issues found
+
+### Once per month - do two or more of the following:
+* Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
+* Watch [this video](https://www.youtube.com/watch?v=4NIb9l3imAo) and [this video](https://www.youtube.com/watch?v=Eg5-tdAwclo) - on interviewing
+* Read [this](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html) - on crafting a resume
+* Do one lesson from [CUST104: Business Communications](https://learn.saylor.org/course/view.php?id=345)
+* Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
+* Catch up on industry reading on sites like [Joel on Software](https://www.joelonsoftware.com/), [Coding Horror](https://blog.codinghorror.com/), [CSS Tricks](https://css-tricks.com/), [A List Apart](http://alistapart.com/articles), [UX Myths](http://uxmyths.com/), [JavaScript Weekly](http://javascriptweekly.com/)
+
+### Practice stuff
+* sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
+* learn [Sass](http://sass-lang.com/guide)
+* Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
+* Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
+* Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
+* Project: Do one of the FCC projects not listed in this guide.
+* Goal: Contribute one pull request per month to an open source project of your choosing.
+**Some advanced stuff**
+* pick a pet web development project you can code in a week and complete it
+* code an android application
+* learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
+* redo any of the algorithmic type projects you've already completed from the list, in a language other than JavaScript
+* pick an open source project from [Code Triage](https://www.codetriage.com/) and contribute to fixing an open issue
+* code a flash cards application, for jotting quick notes you can use to quiz yourself later
+* hit hackerrank and complete the Project Euler problems
 
 ## Bonus List
 
