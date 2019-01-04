@@ -42,7 +42,7 @@ Precalculus
 **Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
 
 - [ ]  Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
-- [ ]  Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
+- [X]  Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
 - [ ]  Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) 
 - [ ]  Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) 
 - [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
@@ -55,7 +55,7 @@ Precalculus
 - [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
 - [ ]  Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-landing-page/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+- [X]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-agency/) as your inspiration, include all features (hover effects, animations, etc)  
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' section.   
 - [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
