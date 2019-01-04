@@ -154,6 +154,7 @@ Additionally, I'm including a variety of "bonus point" opportunities for reading
 **My goal is to :** 
 1. see how many points I can rack up by December 31, 2019.
 2. Complete atleast 2 Tiers(Min 1 Tier per semester) of the guide until up by December 2019.
+3. Do atleast 2 Game dev speed-runs.
 3. [Meet atleast one of these](###Meet-atleast-one-of-these).
 4. Use those extra resources lying around for years and gain some points from them.
 5. Give your best and exceed the above if possible.
