@@ -60,7 +60,7 @@ Precalculus
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Easy' section.   
 - [ ]  Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-resume/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
+- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ]  Project: Create a web page using [this theme](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/) as your inspiration, include all features (hover effects, animations, etc)
 - [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) 
 - [ ]  Project: [CSS Zen Garden](http://www.csszengarden.com/) - implement your own CSS design for the competition
